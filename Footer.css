@@ -1,0 +1,12 @@
+.footer {
+  background-color: aqua;
+  color: black;
+  margin-top: 200px;
+  position: absolute;
+  margin-bottom: 0px;
+  width: 100%;
+
+  left:0px; right:0px;
+  overflow: hidden;
+  
+}
